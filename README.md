@@ -1,32 +1,45 @@
-### Hi there 👋, My name is Md Musfiqur Rohoman
-#### Frontend Web Developer || JavaScript Developer || React JS Developer || MERN Stack Web Developer 
-![Frontend Web Developer || JavaScript Developer || React JS Developer || MERN Stack Web Developer ](https://scontent.fdac97-1.fna.fbcdn.net/v/t1.6435-9/121886872_2747563875520479_7923735533116451932_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeGDnJgcVkO3tMzVChvv4EWCPA1PMdb0ZYM8DU8x1vRlg-54Uw6riai82whEwuV_1fdWtXw527FOho7mrWkT4oAn&_nc_ohc=IJdbWMJGsLMAX_Z9mjf&tn=vSJi1l62Jvz5_x1T&_nc_ht=scontent.fdac97-1.fna&oh=00_AT9f-2iiz40ciQHiljK-JKFDTCLLLD1PzhJJgRxdfFn1mA&oe=62026C24)
+<h1 align="center">Hello 👋, I'm Md Musfiqur Rohoman</h1>
+<h3 align="center">A passionate MERN Stack Web Developer from Bangladesh</h3>
 
-As a Junior Web Developer, with a proven record of some gorgeous projects, my main focus is to help my workplace by sharing my skills and knowledge. I always try to maintain the continuity of my work by doing regular hard work. And always try to be honest.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=musfiqurrahma&label=Profile%20views&color=0e75b6&style=flat" alt="musfiqurrahma" /> </p>
 
-Skills: JavaScript || ES6 || DOM Manipulation || TypeScript || REST API || React || React-Router || React-hooks || Firebase Auth || HTML5 || MongoDB || Node.JS || Express.JS || CSS3 || Bootstrap5 || React Bootstrap || Material UI || Tailwind CSS || Visual Studio Code || Github || Chrome DevTools || Figma || Heroku || Netlify .
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musfiqurrahma" alt="musfiqurrahma" /></a> </p>
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
-- ⚡ Fun fact: I Can Singing,I Can Swimming and I'm a Traveller. 
+- 🌱 I’m currently learning **JavaScript**
 
+- 👯 I’m looking to collaborate on **Github**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MusfiqurRahma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-musfiqur-rohoman-b88650219//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/musfiq074/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mus_fi_que//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/16842844/musfiqur-rohoman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://my-personall-portfolio.netlify.app/)  
+- 👨‍💻 All of my projects are available at [https://my-personall-portfolio.netlify.app](https://my-personall-portfolio.netlify.app)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 📝 I regularly write articles on [https://medium.com/@musfiq371/core-concepts-of-node-js-570665524486](https://medium.com/@musfiq371/core-concepts-of-node-js-570665524486)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/MusfiqurRahma)](https://github.com/ryo-ma/github-profile-trophy)
+- 💬 Ask me about **JavaScript,React**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/MusfiqurRahma)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me **musfiq371@gmail.com**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/MusfiqurRahma&show_icons=true&count_private=true)  
+- 📄 Know about my experiences [https://drive.google.com/file/d/1aIj0x__cg83hRLfYJI6qhgqIoNJTR9SV/view?usp=sharing](https://drive.google.com/file/d/1aIj0x__cg83hRLfYJI6qhgqIoNJTR9SV/view?usp=sharing)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/MusfiqurRahma)  
+- ⚡ Fun fact **I am a Singer,I am a Learner and also a amazing Traveller.**
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/MusfiqurRahma)  
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/MusfiqurRahma)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-musfiqur-rohoman-b88650219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-musfiqur-rohoman-b88650219/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16842844/musfiqur-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16842844/musfiqur-rahman" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/musfiq074/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/musfiq074/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/mus_fi_que/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mus_fi_que/" height="30" width="40" /></a>
+<a href="https://medium.com/@https://medium.com/@musfiq371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@https://medium.com/@musfiq371" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/musfiq371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/musfiq371" height="30" width="40" /></a>
+</p>
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/MusfiqurRahma)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musfiqurrahma&show_icons=true&locale=en&layout=compact" alt="musfiqurrahma" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musfiqurrahma&show_icons=true&locale=en" alt="musfiqurrahma" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musfiqurrahma&" alt="musfiqurrahma" /></p>
